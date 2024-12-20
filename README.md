@@ -1,6 +1,10 @@
 # Hi, I'm Akshay! 👋
 
-### You can tell a computer what to do. That’s the coolest thing ever.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Code.+Create.+Collaborate.;Open+Source+Explorer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+</p>
+
+
 
 ## Skills
 
@@ -20,4 +24,8 @@
 
 ---
 
-_"Lets Create Something."_
+<div align="center">
+  <blockquote>
+    <h2 style="color:#F75C7E;">"You can tell a computer what to do. That’s the coolest thing ever."</h2>
+  </blockquote>
+</div>
