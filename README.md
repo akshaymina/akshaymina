@@ -1,7 +1,7 @@
 # Hi, I'm Akshay! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Code.+Create.+Collaborate.;Open+Source+Explorer;Tech+Enthusiast;Programming my thoughts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Code.+Create.+Collaborate.;Open+Source+Explorer;Tech+Enthusiast;Programming+my+thoughts" alt="Typing SVG" />
 </p>
 
 
