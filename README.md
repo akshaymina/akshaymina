@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Code.+Create.+Collaborate.;Open+Source+Explorer;Tech+Enthusiast;Programming+my+thoughts" alt="Typing SVG" />
 </p>
 
-
-
-## Skills
-
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -22,10 +18,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akm47/)
 
----
-
 <div align="center">
-  <blockquote>
-    <h2 style="color:#F75C7E;">"You can tell a computer what to do. That’s the coolest thing ever."</h2>
-  </blockquote>
+  
+   > <h2 style="color:#F75C7E;">"You can tell a computer what to do. That’s the coolest thing ever."</h2>
+  
 </div>
