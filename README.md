@@ -20,6 +20,6 @@
 
 <div align="center">
   
-   > <h2 style="color:#F75C7E;">"You can tell a computer what to do. That’s the coolest thing ever."</h2>
+  
   
 </div>
